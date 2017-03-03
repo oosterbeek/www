@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<h2>{{ page.title }}</h2>
+<time>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</time>
+
+<p>{{ page.authors }}</p>
+
+<p>{{ page.abstract }}</p>
+
+<p><a href="{{ page.pdf }}">I want to read this! (PDF)</a></p>

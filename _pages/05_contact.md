@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-My e-mail is [edwin.leuven@econ.uio.no](mailto:edwin.leuven@econ.uio.no).
+E-mail: [edwin.leuven@econ.uio.no](mailto:edwin.leuven@econ.uio.no).
 
 <p>
 <a href="http://www.sv.uio.no/econ/english/">Department of Economics</a><br>
