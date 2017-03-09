@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<h2>{{ page.title }}</h2>
+
+<p>
+	Published in:
+	{% if page.type == "article" %}
+		<i>
+		{{page.journal}}
+		{% if page.volume != empty %}
+			{{page.volume}}
+		{% endif %}
+		</i>
+		{% if page.number != empty %}
+			({{page.number}}).
+		{% endif %}
+			({{page.year}}).
+		{% if page.pages != empty %}
+		 {{page.pages}}.
+		{% endif %}
+	{% endif %}
+	{% if page.type == "incollection" %}
+		In: {{page.editor}}, eds. <i>{{page.booktitle}}</i>. {{page.publisher}}. ({{page.year}}). 
+	{% endif %}
+	{% if page.authors != site.name %}
+	 ({{ page.authors | strip_newlines | remove: 'Edwin Leuven and' | remove: 'and Edwin Leuven' | prepend: 'with ' }})
+	{% endif %}
+</p>
+
+<p>{{ page.abstract }}</p>
+
+
+<p><a href="{{ page.pdf }}">I want to read this! (PDF)</a></p>
