@@ -2,7 +2,7 @@
 layout: post
 title:  "Class size discussion in Morgenbladet"
 date:   2017-05-05
-category: pub
+category: media
 ---
 Replying to Mari Rege and Odny Solheim's claim that quasi-experimental research is not policy relevant because it uses as-if random variation.
 
