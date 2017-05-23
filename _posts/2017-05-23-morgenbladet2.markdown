@@ -12,7 +12,7 @@ Now it is something else:
 
 Schools are facing large and unpredictible changes in class sizes from cohort to cohort, and on top of it schools are unable to handle that.
 
-Rege and Solheim forget to mention that these are hypotheses (my mom would call it opinions, my evil twin calls it wild claims).
+Rege and Solheim forget to mention that these are conjectures.
 
 They also forget to check the data. 
 
