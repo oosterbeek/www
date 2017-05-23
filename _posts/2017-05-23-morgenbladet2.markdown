@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Class size discussion in Morgenbladet redux"
-date:   2017-23-05
+date:   2017-05-23
 category: media
 ---
 Mari Rege and Odny Solheim are still in denial.
