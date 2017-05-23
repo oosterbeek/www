@@ -6,11 +6,11 @@ category: media
 ---
 Mari Rege and Odny Solheim are still in denial.
 
-<p>Where <a href="https://morgenbladet.no/ideer/2017/04/kunnskap-om-laerertetthet">before</a> they were claiming that we were using unpredictible variation in <a href="http://leuven.economists.nl/papers/2017/03/03/class-size.html">our study</a> to estimate class size effects, this is <a href="https://morgenbladet.no/ideer/2017/05/en-gang-til-om-norm-laerertetthet-og-forutsigbarhet">now</a> off the table.</p>
+<p>Where <a href="https://morgenbladet.no/ideer/2017/04/kunnskap-om-laerertetthet">before</a> they were claiming that we were using transitory and unpredictible variation in <a href="http://leuven.economists.nl/papers/2017/03/03/class-size.html">our study</a> to estimate class size effects, this is <a href="https://morgenbladet.no/ideer/2017/05/en-gang-til-om-norm-laerertetthet-og-forutsigbarhet">now</a> off the table.</p>
 
 Now it is something else: schools are facing large and unpredictible changes in class sizes from cohort to cohort, and on top of it schools are unable to handle that.
 
-At least, if we believe Rege and Solheim because they forget to mention that these are hypotheses (my mom would call it opinions).
+At least if we have to believe Rege and Solheim, because they forget to mention that these are hypotheses (my mom would call it opinions).
 
 They also forget to check the data. 
 
