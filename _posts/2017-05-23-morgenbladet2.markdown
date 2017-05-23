@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Class size discussion in Morgenbladet redux"
+title:  "The never ending class size discussion"
 date:   2017-05-23
 category: media
 ---
 Mari Rege and Odny Solheim are still in denial.
 
-Where <a href="https://morgenbladet.no/ideer/2017/04/kunnskap-om-laerertetthet">before</a> they were claiming that we were using unpredictible variation in <a href="http://leuven.economists.nl/papers/2017/03/03/class-size.html">our study<a> to estimate class size effects, this is <a href="https://morgenbladet.no/ideer/2017/05/en-gang-til-om-norm-laerertetthet-og-forutsigbarhet">now</a> off the table.
+Where <a href="https://morgenbladet.no/ideer/2017/04/kunnskap-om-laerertetthet">before</a> they were claiming that we were using unpredictible variation in <a href="http://leuven.economists.nl/papers/2017/03/03/class-size.html">our study</a> to estimate class size effects, this is <a href="https://morgenbladet.no/ideer/2017/05/en-gang-til-om-norm-laerertetthet-og-forutsigbarhet">now</a> off the table.
 
 Now it is something else: schools are facing large and unpredictible changes in class sizes from cohort to cohort, and on top of it schools are unable to handle that.
 
