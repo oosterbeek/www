@@ -27,7 +27,9 @@ permalink: /pubs/
 			In: {{post.editor}}, eds. <i>{{post.booktitle}}</i>. {{post.publisher}}. ({{post.year}}). 
 		{% endif %}
 		{% if post.authors != site.name %}
-		 ({{ post.authors | strip_newlines | remove: 'Edwin Leuven and' | remove: 'and Edwin Leuven' | prepend: 'with ' }})
+			{% assign and_name = site.name : append ' and' %}
+			{% assign name_and = 'and ' append : site.name %}
+			({{ post.authors | strip_newlines | remove: and_name | remove: name_and | prepend: 'with ' }})
 		{% endif %}
 	 </li>
 {% endfor %}
