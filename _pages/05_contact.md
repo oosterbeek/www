@@ -4,22 +4,14 @@ title: Contact
 permalink: /contact/
 ---
 
-E-mail: [edwin.leuven@econ.uio.no](mailto:edwin.leuven@econ.uio.no).
+E-mail: [h.oosterbeek@uva.nl](mailto:h.oosterbeek@uva.nl).
 
 <p>
-<a href="http://www.sv.uio.no/econ/english/">Department of Economics</a><br>
-University of Oslo<br>
-Postboks 1095 Blindern<br>
-0317 Oslo<br/>
-Norway<br>
-tel. +47 22855139<br>
-</p>
-
-<h3>Visiting address:</h3>
-<p>
-<a href="http://www.uio.no/om/finn-fram/omrader/blindern/bl09/">Eilert Sundts Hus</a><br>
-Room 11.36<br>
-Moltke Moes vei 31<br>
-0851 Oslo<br>
-Norway<br>
+Amsterdam School of Economics<br/>
+University of Amsterdam<br/>
+Roetersstraat 11<br/>
+Room 3.60, Building E<br/>
+1018 WB Amsterdam<br/>
+The Netherlands<br/>
+tel. +31 (0)20 525 4242<br/>
 </p>
