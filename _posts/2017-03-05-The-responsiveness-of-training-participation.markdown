@@ -15,5 +15,5 @@ publisher: ""
 institution: ""
 pdf: "http://www.economists.nl/files/20130218-saftrek2012july.pdf"
 date: 2017-03-05
-category: paper
+category: papers
 ---

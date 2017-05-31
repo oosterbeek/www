@@ -15,5 +15,5 @@ publisher: ""
 institution: ""
 pdf: "http://ftp.iza.org/dp5186.pdf"
 date: 2017-03-05
-category: paper
+category: papers
 ---
