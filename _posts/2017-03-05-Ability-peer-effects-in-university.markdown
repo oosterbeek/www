@@ -7,13 +7,13 @@ year: "2017"
 journal: "Review of Economic Studies"
 volume: "84"
 number: "2"
-pages: "547-587"
+pages: "547-587
 type: "article"
 booktitle: ""
 editor: ""
 publisher: ""
 institution: ""
 pdf: "https://www.dropbox.com/s/1kryeqzdj9g88ea/booijLeuvenOosterbeek2017restud.pdf?dl=0"
-date: 2017-03-05
+date: 2017-07-23
 category: pub
 ---
