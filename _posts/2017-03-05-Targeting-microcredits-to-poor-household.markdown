@@ -13,7 +13,7 @@ booktitle: ""
 editor: ""
 publisher: ""
 institution: ""
-pdf: "http://www.economists.nl/files/20110129-hidalgoOosterbeek.pdf"
+pdf: "https://www.dropbox.com/s/vxw5o1k1rx3o53l/hidalgoOosterbeek.pdf?dl=0"
 date: 2017-03-05
 category: papers
 ---

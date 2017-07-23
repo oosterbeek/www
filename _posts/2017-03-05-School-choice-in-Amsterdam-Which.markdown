@@ -13,7 +13,7 @@ booktitle: ""
 editor: ""
 publisher: ""
 institution: ""
-pdf: "http://www.economists.nl/files/20141112-schoolchoice2014nov.pdf"
+pdf: "https://www.dropbox.com/s/prnttg0tcwe294t/schoolchoice2016july.pdf?dl=0"
 date: 2017-05-31
 category: pub
 ---

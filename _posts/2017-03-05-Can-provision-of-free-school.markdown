@@ -13,7 +13,7 @@ booktitle: ""
 editor: ""
 publisher: ""
 institution: ""
-pdf: "http://www.economists.nl/files/20130603-HidalgoOnofaOosterbeekPonce2013JDE_ac.pdf"
+pdf: "https://www.dropbox.com/s/h3b39kumbg63qf8/HidalgoOnofaOosterbeekPonce2013jde.pdf?dl=0"
 date: 2017-03-05
 category: pub
 ---

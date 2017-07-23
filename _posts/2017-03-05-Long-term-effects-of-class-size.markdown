@@ -13,7 +13,7 @@ booktitle: ""
 editor: ""
 publisher: ""
 institution: ""
-pdf: "http://www.economists.nl/files/20140306-FredrikssonOckertOosterbeek2013qje.pdf"
+pdf: "https://www.dropbox.com/s/30k4c7mia4r6w4p/FredrikssonOckertOosterbeek2013qje.pdf?dl=0"
 date: 2017-03-05
 category: pub
 ---

@@ -13,7 +13,7 @@ booktitle: ""
 editor: ""
 publisher: ""
 institution: ""
-pdf: "http://www.economists.nl/files/20070906-OosterbeekVanpraagSBE1995.pdf"
+pdf: "https://www.dropbox.com/s/wy8c5hve7ye48l7/OosterbeekVanpraag1995sbe.pdf?dl=0"
 date: 2017-03-05
 category: pub
 ---

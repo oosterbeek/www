@@ -13,7 +13,7 @@ booktitle: ""
 editor: ""
 publisher: ""
 institution: ""
-pdf: "http://www.economists.nl/files/20070906-OosterbeekEER1993.pdf"
+pdf: "https://www.dropbox.com/s/edrksm8w6oelks0/Oosterbeek1993ecedr.pdf?dl=0"
 date: 2017-03-05
 category: pub
 ---

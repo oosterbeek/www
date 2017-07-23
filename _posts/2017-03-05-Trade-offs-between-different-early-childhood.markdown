@@ -13,7 +13,7 @@ booktitle: ""
 editor: ""
 publisher: ""
 institution: ""
-pdf: "http://www.economists.nl/files/20120709-ecd2012june.pdf"
+pdf: "https://www.dropbox.com/s/vdlc7t4ys4r7mk3/ecd2012june.pdf?dl=0"
 date: 2017-03-05
 category: papers
 ---

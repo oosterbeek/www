@@ -13,7 +13,7 @@ booktitle: ""
 editor: ""
 publisher: ""
 institution: ""
-pdf: "http://www.economists.nl/files/20160622-Health_January_2016.pdf"
+pdf: "https://www.dropbox.com/s/fz2pbzwhh0j5mbh/Health_January_2016.pdf?dl=0"
 date: 2017-03-05
 category: pub
 ---

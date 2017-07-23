@@ -13,7 +13,7 @@ booktitle: ""
 editor: ""
 publisher: ""
 institution: ""
-pdf: "http://www.economists.nl/files/20060802-SOSJuly06.pdf"
+pdf: "https://www.dropbox.com/s/6qx3lm9xp4bkjl6/SOSJuly06.pdf?dl=0"
 date: 2017-03-05
 category: pub
 ---

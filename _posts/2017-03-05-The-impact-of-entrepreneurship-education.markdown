@@ -13,7 +13,7 @@ booktitle: ""
 editor: ""
 publisher: ""
 institution: ""
-pdf: "http://www.economists.nl/files/20100506-oosterbeekVanpraagIjsselstein2010.pdf"
+pdf: "https://www.dropbox.com/s/4hul4xktsfdicv9/OosterbeekVanPraagIJsselstein2010euecr.pdf?dl=0"
 date: 2017-03-05
 category: pub
 ---

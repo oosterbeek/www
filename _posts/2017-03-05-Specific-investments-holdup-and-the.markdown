@@ -13,7 +13,7 @@ booktitle: ""
 editor: ""
 publisher: ""
 institution: ""
-pdf: "http://www.economists.nl/files/20070906-SloofSonnemansOosterbeekEER2004.pdf"
+pdf: "https://www.dropbox.com/s/v2b74jrhl4zco7r/SloofSonnemansOosterbeek2004euecr.pdf?dl=0"
 date: 2017-03-05
 category: pub
 ---

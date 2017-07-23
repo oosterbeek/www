@@ -13,7 +13,7 @@ booktitle: ""
 editor: ""
 publisher: ""
 institution: ""
-pdf: "http://www.economists.nl/files/20160310-schoolchoice2016march.pdf"
+pdf: "https://www.dropbox.com/s/5k1smr5ncctljdn/schoolchoice2016march.pdf?dl=0"
 date: 2017-03-05
 category: papers
 ---

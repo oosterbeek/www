@@ -13,7 +13,7 @@ booktitle: ""
 editor: ""
 publisher: ""
 institution: ""
-pdf: "http://www.economists.nl/files/20150530-hidalgoOosterbeekWebbink2014labec.pdf"
+pdf: "https://www.dropbox.com/s/wz3pphiooazsls3/hidalgoOosterbeekWebbink2014labec.pdf?dl=0"
 date: 2017-03-05
 category: pub
 ---

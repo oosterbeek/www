@@ -13,7 +13,7 @@ booktitle: ""
 editor: ""
 publisher: ""
 institution: ""
-pdf: "http://www.economists.nl/files/20130218-saftrek2012july.pdf"
+pdf: "https://www.dropbox.com/s/jp4mojhcaafyqfy/saftrek2012july.pdf?dl=0"
 date: 2017-03-05
 category: papers
 ---

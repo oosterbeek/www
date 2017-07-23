@@ -13,7 +13,7 @@ booktitle: ""
 editor: ""
 publisher: ""
 institution: ""
-pdf: "http://www.economists.nl/files/20150605-revision_final2.pdf"
+pdf: "https://www.dropbox.com/s/c0xis76mlnrplki/JHR514_02FredrikssonOckertOosterbeck_REV09-07-2016_PF.pdf?dl=0"
 date: 2017-03-05
 category: pub
 ---
