@@ -1,7 +1,7 @@
 ---
 layout: pub
 title: "A decomposition of training probabilities"
-abstract: "The determinants of workers’ training probabilities are analysed. A distinction is made between the unconditional probability that a worker is employed by a firm that provides any training opportunities at all, and the conditional probability that the worker receives training given that s/he works for a firm that provides training. For this analysis a censored version of the bivariate probit model is applied. The results indicate that establishment size, industry dummies, type of schooling, age and experience affect only the unconditional probability, whereas the type of labour contract, working hours and job level affect only the conditional probability. Years of formal schooling affect both probabilities; more highly educated workers are both more likely to work for training-providing firms and, given that they work for such a firm, to be selected for training programmes."
+abstract: ""
 authors: "Hessel Oosterbeek"
 year: "1996"
 journal: "Applied Economics"
