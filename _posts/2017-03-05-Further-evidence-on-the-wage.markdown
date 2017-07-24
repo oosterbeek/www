@@ -1,7 +1,7 @@
 ---
 layout: pub
 title: "Further evidence on the wage curve"
-abstract: ""
+abstract: "In this paper we replicate and extend the wage curve proposed by Blanchflower and Oswald (1990). Our replication only partly confirms their findings. Our extensions relate to gender effects and to a refinement of the unemployment measure. The results show that wage curves for males and females differ. For females unemployment both has a wage effect and a discouraged worker effect."
 authors: "Wim Groot and Eddie Mekkelholt and Hessel Oosterbeek"
 year: "1992"
 journal: "Economics Letters"
