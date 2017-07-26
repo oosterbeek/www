@@ -1,7 +1,7 @@
 ---
 layout: pub
 title: "Returns to computer use: a simple test on the productivity interpretation"
-abstract: ""
+abstract: "This paper finds that returns from computer use do not vary with the intensity of computer use. This is evidence against the productivity interpretation of these returns and supports the view that returns from computer use can be attributed to unobserved heterogeneity."
 authors: "Hessel Oosterbeek"
 year: "1997"
 journal: "Economics Letters"
