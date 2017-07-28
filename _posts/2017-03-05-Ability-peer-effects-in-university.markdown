@@ -7,7 +7,7 @@ year: "2017"
 journal: "Review of Economic Studies"
 volume: "84"
 number: "2"
-pages: "547-587
+pages: "547-587"
 type: "article"
 booktitle: ""
 editor: ""
