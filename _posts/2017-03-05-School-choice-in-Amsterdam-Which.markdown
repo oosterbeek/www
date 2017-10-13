@@ -13,7 +13,7 @@ booktitle: ""
 editor: ""
 publisher: ""
 institution: ""
-pdf: "https://www.dropbox.com/s/prnttg0tcwe294t/schoolchoice2016july.pdf?dl=0"
+pdf: "https://www.dropbox.com/home/lotenAmsterdam/papers/revision%20EFP/EFP%20Final%20files?preview=Formatted+Manuscript+School+choice+in+Amsterdam.pdf"
 date: 2017-05-31
 category: pub
 ---
