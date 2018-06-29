@@ -13,7 +13,7 @@ booktitle: ""
 editor: ""
 publisher: ""
 institution: ""
-pdf: "https://www.dropbox.com/s/bxzl2npev1e0ota/laborsupply.pdf?dl=0"
+pdf: "https://www.dropbox.com/s/asm8w56oa85wjnl/poverty2018april.pdf?dl=0"
 date: 2018-06-29
 category: papers
 ---
