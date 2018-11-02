@@ -15,5 +15,5 @@ publisher: ""
 institution: ""
 pdf: "https://www.dropbox.com/s/wc56hzfj5j4mamo/dentists_revision2.pdf?dl=0"
 date: 2018-11-01
-category: papers
+category: pub
 ---
