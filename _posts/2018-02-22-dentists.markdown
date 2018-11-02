@@ -1,19 +1,19 @@
 ---
-layout: paper
+layout: pub
 title: "Do Dutch dentists extract monopoly rents?"
-abstract: "We exploit admission lotteries to estimate the payoffs to the dentistry study in the Netherlands. Using data from up to 22 years after the lottery, we find that in most years after graduation dentists earn around 50,000 Euros more than they would earn in their next-best profession. The payoff is larger for men than for women but does not vary with high school GPA. The large payoffs cannot be attributed to longer working hours, larger human capital investments or sacrifices in family outcomes. The natural explanation is that Dutch dentists extract a monopoly rent, which we attribute to the limited supply of dentists in the Netherlands. We discuss policies to curtail this rent."
+abstract: "Abstract We exploit lottery-determined admission to dental school to estimate the payoffs to the study of dentistry in the Netherlands. Using data from up to 22 years after the lottery, we find that in most years after graduation dentists earn around 50,000 Euros more than they would earn in their next-best profession. The payoff is larger for men than for women but does not vary with high school GPA. The large payoffs cannot be attributed to longer working hours, larger investments while studying (opportunity costs and direct costs), or unpleasant aspects of working as a dentist. A plausible explanation is that dentists earn a monopoly rent. Results from regressions of dentists' earnings on dentists density are consistent with this, as are the facts that the supply of dentists in the Netherlands is low and that the payoff does not vary with high school GPA."
 authors: "Nadine Ketel and Edwin Leuven and Hessel Oosterbeek and Bas van der Klaauw"
-year: "2018"
-journal: ""
+year: "Forthcoming"
+journal: "Journal of Health Economics"
 volume: ""
 number: ""
 pages: ""
-type: "unpublished"
+type: "article"
 booktitle: ""
 editor: ""
 publisher: ""
 institution: ""
-pdf: "https://www.dropbox.com/s/qyq72f368kfru7x/KetelLeuvenOosterbeekVanderKlaauw_dentists.pdf?dl=0"
-date: 2018-02-22
+pdf: "https://www.dropbox.com/s/wc56hzfj5j4mamo/dentists_revision2.pdf?dl=0"
+date: 2018-11-01
 category: papers
 ---
