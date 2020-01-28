@@ -1,0 +1,25 @@
+---
+layout: paper
+title: "Can competitiveness predict education and labor market outcomes? Evidence from incentivized choice and survey measures"
+abstract: "We assess the predictive power of two measures of competitiveness for education and labor market outcomes using a large, representative panel. The first is incentivized and is an
+online adaptation of the laboratory-based Niederle-Vesterlund measure. The second is an
+unincentivized survey question eliciting general competitiveness on an 11-point scale. Both
+measures are strong and consistent predictors of completed level of education, field of study in college, occupation and income. The predictive power of the new unincentivized measure for
+these outcomes is robust to controlling for other traits, including risk attitudes, confidence and the Big Five personality traits. For most outcomes, the predictive power of competitiveness
+exceeds that of the other traits. Gender differences in competitiveness can explain 5-10% of
+the observed gender differences in education and labor market outcomes."
+authors: "Thomas Buser and Muriel Niederle and Hessel Oosterbeek"
+year: "2020"
+journal: ""
+volume: ""
+number: ""
+pages: ""
+type: ""
+booktitle: ""
+editor: ""
+publisher: ""
+institution: ""
+pdf: "https://www.dropbox.com/s/qsczz5z4nk3pf1p/BuserNiederleOosterbeek2020.pdf?dl=0"
+date: 2020-01-28
+category: pub
+---
