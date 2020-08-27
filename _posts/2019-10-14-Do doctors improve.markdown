@@ -8,12 +8,12 @@ journal: "American Economic Journal: Applied Economics"
 volume: ""
 number: ""
 pages: ""
-type: ""
+type: "article"
 booktitle: ""
 editor: ""
 publisher: ""
 institution: ""
 pdf: "https://www.dropbox.com/s/cxm7w19uil1a79u/parental_health_manuscript.pdf?dl=0"
-date: 2019-10-14
+date: 2020-08-28
 category: pub
 ---
