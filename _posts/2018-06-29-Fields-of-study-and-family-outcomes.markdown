@@ -1,9 +1,9 @@
 ---
 layout: paper
-title: "Field of study and family outcomes"
-abstract: "This paper uses administrative data from 16 cohorts of the Dutch population to study the relationship between field of study and family outcomes. We first document considerable variation by field of study for a range of family outcomes. To get to causal effects, we use admission lotteries that were conducted in the Netherlands to allocate seats for four substantially oversubscribed studies. We find that field of study matters for partner choice, which for women also implies an effect on partners' earnings. Fertility of women is not affected and evidence for men is mixed, but we find evidence for intergenerational effects on children's education. This means that field of study does not only affect individual labor market outcomes but also causally influences other important dimensions of a person's life."
+title: "Field of study, partner choice and other family outcomes"
+abstract: "There is strong assortative mating by field of study. To examine whether this is solely due to self selection or also reflects a causal effect of access to specific "marriage" markets, we use data from participants in admission lotteries of four oversubscribed studies in the Netherlands. For each of the four studies, we find that the winners of an admission lottery are significantly more likely than the lottery losers to have a partner who studied in the field of the lottery. This indicates that assortative mating by field of study is at least partially due to market access. There is no strong evidence for effects on subsequent fertility and children’s academic achievement."
 authors: "Elisabeth Artmann and Nadine Ketel and Hessel Oosterbeek and Bas van der Klaauw"
-year: "2018"
+year: "2020"
 journal: ""
 volume: ""
 number: ""
@@ -13,7 +13,7 @@ booktitle: ""
 editor: ""
 publisher: ""
 institution: ""
-pdf: "https://www.dropbox.com/s/bf9o9sjhtf44m7l/family2018.pdf?dl=0"
-date: 2018-06-29
+pdf: "https://www.dropbox.com/s/xnh3aaas6d5vw9q/family2020oct.pdf?dl=0"
+date: 2020-02-10
 category: papers
 ---
