@@ -14,6 +14,6 @@ editor: ""
 publisher: ""
 institution: ""
 pdf: "https://www.dropbox.com/s/c0clph8efcz32n6/segregation2021feb.pdf?dl=0"
-date: 2021-02-10
+date: 2021-02-24
 category: pub
 ---
