@@ -1,8 +1,7 @@
 ---
 layout: pub
 title: "Long-term effects of school-starting-age rules"
-abstract: "To study the long-term effects of school-starting-age rules in a setting with early ability
-tracking, we exploit the birth month threshold used in the Netherlands. We find that students born just after the threshold perform better at the end of primary school than students born just before it. This translates into increased placement in high ability tracks in secondary education. This difference diminishes gradually during subsequent stages, and we find no effect on the highest attained educational level. Those born just before the threshold enter the labor market somewhat younger and have therefore more labor market experience and higher earnings at any age until 40. We conclude that early ability tracking does not harm long-term outcomes of children who were, for exogenous reasons, placed in a lower track."
+abstract: "To study the long-term effects of school-starting-age rules in a setting with early ability tracking, we exploit the birth month threshold used in the Netherlands. We find that students born just after the threshold perform better at the end of primary school than students born just before it. This translates into increased placement in high ability tracks in secondary education. This difference diminishes gradually during subsequent stages, and we find no effect on the highest attained educational level. Those born just before the threshold enter the labor market somewhat younger and have therefore more labor market experience and higher earnings at any age until 40. We conclude that early ability tracking does not harm long-term outcomes of children who were, for exogenous reasons, placed in a lower track."
 authors: "Hessel Oosterbeek and Simon ter Meulen and Bas van der Klaauw"
 year: "Forthcoming"
 journal: "Economics of Education Review"
