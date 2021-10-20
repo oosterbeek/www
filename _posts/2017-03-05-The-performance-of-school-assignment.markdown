@@ -1,9 +1,9 @@
 ---
 layout: paper
 title: "The performance of school assignment mechanisms in practice"
-abstract: "On the basis of theory alone, it is hard to advise school districts which school assignment mechanism to adopt. While the Deferred Acceptance (DA) mechanism has some desirable properties (strategy proofness and stability) that the Boston mechanism lacks, Boston may outperform DA in terms of welfare because it allows students to express the intensity of their preferences. We use a unique combination of administrative data and survey data to compare the two mechanisms empirically. We find that DA results in higher average welfare than Boston. This finding contradicts the baseline results from some recent studies that use structural approaches. This contradiction can be attributed to the structural models' assumption that students do not make strategic mistakes. When we impose this assumption, the welfare ranking of the mechanisms reverses."
+abstract: "The theoretical school assignment literature points to a trade-off between strategy-proof mechanisms, such as the Deferred Acceptance (DA) mechanism, and manipulable mechanisms that allow students to express the intensity of their preferences, such as the Boston mechanism. We assess this trade-off using a unique combination of register data and a novel survey instrument that elicits cardinal preferences from secondary-school students in Amsterdam. Contrary to the theoretical prediction and previous empirical results, we find that DA results in higher mean welfare than the adaptive Boston mechanism used in Amsterdam. We provide evidence that this is due to students making strategic mistakes. We further simulate the assignment and resulting welfare in case none of the students would make a mistake under Boston. We find a mean welfare difference with actual, mistake-prone, Boston equivalent to a 4.5 percent change in home-school distances. Around 90 percent of this gain can be obtained by switching from actual Boston to strategy-proof DA. This switch also has distributional consequences since disadvantaged students and lower ability students benefit more from it."
 authors: "Monique de Haan and Pieter Gautier and Hessel Oosterbeek and Bas van der Klaauw"
-year: "2018"
+year: "2021"
 journal: ""
 volume: ""
 number: ""
@@ -13,7 +13,7 @@ booktitle: ""
 editor: ""
 publisher: ""
 institution: ""
-pdf: "https://www.dropbox.com/s/psk2wnckh7s9wef/deHaanGautierOosterbeekVanderKlaauw2018feb.pdf?dl=0"
-date: 2018-02-22
+pdf: "https://www.dropbox.com/s/vse5mavfdifoxcz/schoolchoice2021august.pdf?dl=0"
+date: 2021-10-20
 category: papers
 ---

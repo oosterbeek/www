@@ -1,7 +1,7 @@
 ---
 layout: paper
-title: "Using admission lotteries to estimate heterogeneous effects of elite schools"
-abstract: "This paper studies the effects of enrollment in an elite school on students' achievement. We use that elite schools in Amsterdam are often oversubscribed and admission is based on lotteries. Our results show that elite schools have negative effects on achievement of students who just qualify for the highest academic track and positive effects on achievement of students from the top of the baseline ability distribution. These results reconcile contrasting findings from previous studies that use regression discontinuity designs. We also find that value-added estimates of the effects of elite schools are severely biased. "
+title: "Heterogeneous effects of comprehensive vs. single-track academic schools: Evidence from admission lotteries"
+abstract: "We use admission lotteries to study how enrollment in a single-track academic school instead of a comprehensive school affects achievement of students in Amsterdam. Enrollment in a single-track academic school implies exposure to better peers and peers from more affluent neighborhoods, while school resources and the school curriculum are unchanged. Different groups of students are differentially affected by this treatment. Girls from lower-income neighborhoods benefit whereas boys from these neighborhoods are harmed. For students from higher-income neighborhoods, it does not matter which type of school they attend. Furthermore, we find that value-added estimates of the effects of single-track academic schools are severly biased upwards. This is because students who are placed with priority in single-track academic school as well as always takers perform above average while students who do not apply for single-track academic schools perform below average."
 authors: "Hessel Oosterbeek and Nienke Ruijs and Inge de Wolf"
 year: "2020"
 journal: ""
@@ -13,7 +13,7 @@ booktitle: ""
 editor: ""
 publisher: ""
 institution: ""
-pdf: "https://www.dropbox.com/s/1p4t9cxhosctyrs/eliteschools2020march.pdf?dl=0"
-date: 2020-04-28
+pdf: "https://www.dropbox.com/s/c53co5rpln66njj/singletrack2021oct.pdf?dl=0"
+date: 2021-10-20
 category: papers
 ---
