@@ -1,20 +1,31 @@
 ---
-layout: paper
+layout: pub
 title: "The effect of monthly cash transfers during five years
-on wealth"
-abstract: "This paper uses an eligibility threshold to estimate the effects of receiving a (unconditional) monthly cash transfer during a period of five years on wealth. We exploit a change in eligibility criteria that took place in Ecuador in 2009. The 40th percentile of the wealth index is the program’s eligibility threshold; our results therefore apply to the richest of the poor. We find that receipt of the cash transfer has a significantly negative effect on the wealth index measured five years later (in 2014). Effect sizes are largest for women who were young or unmarried at baseline. Further results suggest that part of the effect is due to recipients being less likely to be married and therefore being less likely to have a spouse who works. This points to a potential trade-off between wealth and women being independent from their spouses. We find no effects on female labor supply or fertility"
+on households’ wealth"
+abstract: "In 2003 the government of Ecuador started providing a fixed monthly cash transfer
+to households that score below the 40th percentile of the country’s wealth index
+in that year. Households’ wealth was again measured in 2008 and in 2014. We
+exploit rich register data from this setting to estimate the effects of receipt of the
+transfer during five years on households’ wealth, labor supply, marital status and
+fertility. Because we know which households received the transfer prior to 2008,
+we can differentiate between effects on prior recipients and on prior non-recipients.
+We find that receipt of the transfer from 2009 onwards has a significantly negative
+effect on households’ wealth index measured in 2014. We also find that women who
+receive the transfer are less likely to be married and, therefore, to have a spouse
+who works. The sizes of these effects are significantly larger for prior non-recipients
+than for prior recipients. We find no effects on female labor supply or on fertility"
 authors: "Andrea Molina-Vera and Hessel Oosterbeek"
-year: "2020"
-journal: "R&R EDCC"
+year: "Forthcoming"
+journal: "Economic Development and Cultural Change"
 volume: ""
 number: ""
 pages: ""
-type: "unpublished"
+type: "article"
 booktitle: ""
 editor: ""
 publisher: ""
 institution: ""
-pdf: "https://www.dropbox.com/s/k7ixppndglq7fuh/wealth2020nov.pdf?dl=0"
-date: 2021-02-10
-category: papers
+pdf: "https://www.dropbox.com/s/sf7n4tzonjlz2xx/wealth2022may_edcc.pdf?dl=0"
+date: 2022-07-06
+category: pub
 ---
