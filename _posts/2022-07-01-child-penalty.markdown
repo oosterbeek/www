@@ -15,17 +15,17 @@ is thus no evidence that households divide market work and child care based on
 comparative advantage or bargaining power. We provide some evidence that women
 with high earnings potential rely more on formal child care."
 authors: "Elisabeth Artmann and Hessel Oosterbeek and Bas van der Klaauw"
-year: "Forthcoming"
+year: "2022"
 journal: "Labour Economics"
-volume: ""
+volume: "78"
 number: ""
-pages: ""
+pages: "102221"
 type: "article"
 booktitle: ""
 editor: ""
 publisher: ""
 institution: ""
-pdf: "https://www.dropbox.com/s/dkjv6k88595y3h1/AOvdK_ChildPenalty_manuscript_revision.pdf?dl=0"
+pdf: "https://www.dropbox.com/s/e6y30bwxjgukkbz/artmannOosterbeekVanderKlaauw2022LE.pdf?dl=0"
 date: 2022-07-01
 category: pub
 ---
