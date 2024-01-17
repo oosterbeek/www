@@ -15,17 +15,17 @@ receive the transfer are less likely to be married and, therefore, to have a spo
 who works. The sizes of these effects are significantly larger for prior non-recipients
 than for prior recipients. We find no effects on female labor supply or on fertility"
 authors: "Andrea Molina-Vera and Hessel Oosterbeek"
-year: "Forthcoming"
+year: "2024"
 journal: "Economic Development and Cultural Change"
-volume: ""
-number: ""
-pages: ""
+volume: "72"
+number: "2"
+pages: "633-658"
 type: "article"
 booktitle: ""
 editor: ""
 publisher: ""
 institution: ""
-pdf: "https://www.dropbox.com/s/bvr982i61hff6mr/molinaOosterbeek2022edcc.pdf?dl=0"
+pdf: "https://www.dropbox.com/scl/fi/iuiu2wvzhjmfj7u62zsv6/molinaOosterbeek2023edcc.pdf?rlkey=elkwahp064fai2pdjg673txxe&dl=0"
 date: 2022-07-06
 category: pub
 ---
