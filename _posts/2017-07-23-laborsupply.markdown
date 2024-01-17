@@ -1,6 +1,6 @@
 ---
 layout: pub
-title: "The effect of monthly cash transfers during five years
+title: "The effect of monthly cash transfers during 5 years
 on households’ wealth"
 abstract: "In 2003 the government of Ecuador started providing a fixed monthly cash transfer
 to households that score below the 40th percentile of the country’s wealth index
