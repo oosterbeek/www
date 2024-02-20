@@ -1,9 +1,8 @@
 ---
 layout: paper
-title: "Spillovers in fields of study: Siblings, cousins, and neighbors"
-abstract: "We use admission lotteries for higher education studies in the Netherlands to investigate whether someone’s field of study influences the studychoices of their younger peers. We find that younger siblings and cousins are strongly affected. Also younger neighbors are affected but to a smaller extent. These findings indicate that a substantial part of the correlations in study choices between family members can be attributed to spillover effects and are not due to shared environments. Our findings contrast with those of recent studies based on admission thresholds, which find no sibling spillovers on field of study (major) choices. Because we also find spillovers from lottery participants at the lower end of the ability distribution, the contrasting findings cannot be attributed to the different research designs (leveraging admission lotteries versus admission thresholds). We believe that the different findings are due to the small differences in quality between universities in the Netherlands, making differences in the prestige of fields of study more prominent."
+title: "We use admission lotteries for higher education studies in the Netherlands to investigate whether someone’s field of study influences the study choices of their younger peers. We find that younger siblings and cousins are strongly affected. Also younger neighbors are affected but to a smaller extent. These findings indicate that a substantial part of the correlations in study choices between family members can be attributed to spillover effects and are not due to shared environments. Our findings concur with those of recent studies based on admission thresholds, which find sibling spillovers on college or college-major choices. This indicates that the results from previous studies can be extrapolated to students away from admission thresholds, and from siblings to cousins and neighbors."
 authors: "Stanislav Avdeev and Nadine Ketel and Hessel Oosterbeek and Bas van der Klaauw"
-year: "2023"
+year: "2024"
 journal: ""
 volume: ""
 number: ""
@@ -13,7 +12,7 @@ booktitle: ""
 editor: ""
 publisher: ""
 institution: ""
-pdf: "https://www.dropbox.com/scl/fi/kscvetwt4qwj68x6ae1p5/spillovers2023sept.pdf?rlkey=vmm0c4fs431dekdk4d1faqyi8&dl=0"
+pdf: "https://www.dropbox.com/scl/fi/7wz1pspeusfyrsbjypz84/spillovers2024feb.pdf?rlkey=f4rz8tkcho8ru5kdy6kawcyis&dl=0"
 date: 2023-09-14
 category: papers
 ---
