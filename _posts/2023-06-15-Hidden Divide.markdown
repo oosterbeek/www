@@ -13,7 +13,7 @@ booktitle: ""
 editor: ""
 publisher: ""
 institution: ""
-pdf: "https://www.dropbox.com/s/58vwfc9xr9jnw3j/teachers2022dec.pdf?dl=0"
+pdf: "https://www.dropbox.com/scl/fi/fv1jalap9bqsfzl5lwkxh/teachers2023june.pdf?rlkey=afmcfgrpjpz70jtfyahmc6dv7&dl=0"
 date: 2023-06-15
 category: papers
 ---
