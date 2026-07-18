@@ -2,14 +2,14 @@
 layout: default
 ---
 
-<h2>{{ page.title }}</h2>
+<h2 class="paper-title">{{ page.title }}</h2>
 
-<p>{{ page.authors }}</p>
+<p class="paper-authors">{{ page.authors }}</p>
 
 {% if page.status %}
-<p><i>{{ page.status }}</i></p>
+<p class="paper-meta"><i>{{ page.status }}</i></p>
 {% endif %}
 
-<p>{{ page.abstract }}</p>
+<p class="abstract">{{ page.abstract }}</p>
 
-<p><a href="{{ page.pdf }}">I want to read this! (PDF)</a></p>
+<p><a class="button" href="{{ page.pdf }}">Read the paper (PDF)</a></p>

@@ -2,18 +2,35 @@
 layout: default
 ---
 
-<img class="profile-picture" src="hessel.jpg">
-
-<p>Hessel Oosterbeek is Emeritus Professor of Economics at the University of Amsterdam and a researcher at VU University Amsterdam. </p>
+<p>Hessel Oosterbeek is Emeritus Professor of Economics at the University of Amsterdam and a researcher at VU University Amsterdam.</p>
 
 <p>His main research interests focus on the economics of education, development economics, and impact evaluation.</p>
 
-<p>Here are some related pages
+<h2>Elsewhere</h2>
 
-<ul>
+<ul class="chips">
 <li><a href="https://scholar.google.no/citations?user=SFRPFMIAAAAJ&hl=no&oi=ao">Google Scholar</a></li>
 <li><a href="https://ideas.repec.org/e/poo5.html">IDEAS/RePEc</a></li>
-<li><a href="https://albumacademicum.uva.nl/id/id002541">The University of Amsterdam (Album Academicum)</a></li>
+<li><a href="https://albumacademicum.uva.nl/id/id002541">Album Academicum</a></li>
+<li><a href="/pdfs/CV-Oosterbeek.pdf">CV (PDF)</a></li>
 </ul>
 
-and a <a href="/pdfs/CV-Oosterbeek.pdf">CV</a> in pdf format.</p>
+<h2>Recent work</h2>
+
+{% assign allwork = site.categories.pub | concat: site.categories.papers | sort: "date" | reverse %}
+{% for post in allwork limit: 4 %}
+<div class="entry">
+	<div class="entry-year">{% if post.year == "Forthcoming" %}Forthc.{% elsif post.year and post.year != "" %}{{ post.year }}{% else %}{{ post.date | date: "%Y" }}{% endif %}</div>
+	<div>
+		<a class="entry-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+		<p class="entry-meta">
+			{% if post.journal and post.journal != "" %}{{ post.journal }}{% if post.volume and post.volume != "" %} {{ post.volume }}{% endif %}{% elsif post.booktitle and post.booktitle != "" %}In: {{ post.booktitle }}{% elsif post.status %}{{ post.status }}{% else %}Working paper{% endif %}
+			{% if post.authors != site.name %}
+				{% assign and_name = site.name | append: ' and' %}
+				{% assign name_and = 'and ' | append: site.name %}
+				&middot; {{ post.authors | strip_newlines | remove: name_and | remove: and_name | prepend: 'with ' }}
+			{% endif %}
+		</p>
+	</div>
+</div>
+{% endfor %}
