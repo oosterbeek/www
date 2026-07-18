@@ -14,6 +14,8 @@ editor: ""
 publisher: ""
 institution: ""
 pdf: "/pdfs/roseroOosterbeek2026ecd.pdf"
-date: 2017-03-05
+date: 2026-06-18
+redirect_from:
+  - /papers/2017/03/05/Trade-offs-between-different-early-childhood.html
 category: papers
 ---
