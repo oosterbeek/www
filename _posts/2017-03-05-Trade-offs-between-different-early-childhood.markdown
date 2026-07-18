@@ -1,9 +1,9 @@
 ---
 layout: paper
-title: "Trade-offs between different early childhood interventions: Evidence from Ecuador"
-abstract: "Using a discontinuity in the funding scheme, we evaluate the impact of home visits and child care centers on poor children and their mothers in Ecuador. We find that home visits are beneficial for children's cognitive outcomes and health and for mothers' psychological well-being but reduce mothers' labor force participation. In contrast, child care centers cause almost the exact opposite effects. Results are consistent with a framework in which child outcomes are determined by the quantity and quality of time inputs and in which mother's well-being depends on working hours and child outcomes."
+title: "Early childhood interventions and their impact on poor children and their mothers: Evidence from Ecuador"
+abstract: "This paper estimates the effects of two early childhood interventions – home visits and child care centers – on poor children and their mothers in Ecuador, exploiting a discontinuity in the programs' funding scheme in a regression discontinuity design. The forcing variable is a proposal-level score that takes only 34 distinct values. We therefore complement conventional cluster-robust estimates with three inference methods designed for discrete running variables: a wild cluster bootstrap, bias-aware honest confidence intervals, and finite-sample randomization inference. Our most robust finding is that home visits raise children's overall development. The point estimates further suggest that home visits improve specific cognitive and motor skills and mothers' psychological wellbeing while reducing mothers' labor supply, and that child care centers are associated with higher maternal working hours and income but with mixed and less precise effects on children. This is consistent with a trade-off between child development and maternal labor supply. We are explicit about which effects survive the most conservative inference."
 authors: "José Rosero and Hessel Oosterbeek"
-year: "2012"
+year: "2026"
 journal: ""
 volume: ""
 number: ""
@@ -13,7 +13,7 @@ booktitle: ""
 editor: ""
 publisher: ""
 institution: ""
-pdf: "https://www.dropbox.com/s/vdlc7t4ys4r7mk3/ecd2012june.pdf?dl=0"
+pdf: "/pdfs/roseroOosterbeek2026ecd.pdf"
 date: 2017-03-05
 category: papers
 ---
