@@ -15,5 +15,6 @@ publisher: ""
 institution: ""
 pdf: "https://www.dropbox.com/scl/fi/zsldx76u5wlscr7o9dfmw/unimportance2025.pdf?rlkey=721rm97e3dd2i1sw33t4k5xaw&st=gvfl9zfn&dl=0"
 date: 2025-02-03
+status: "Revise and resubmit, Economic Journal"
 category: papers
 ---

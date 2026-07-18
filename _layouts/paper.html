@@ -6,6 +6,10 @@ layout: default
 
 <p>{{ page.authors }}</p>
 
+{% if page.status %}
+<p><i>{{ page.status }}</i></p>
+{% endif %}
+
 <p>{{ page.abstract }}</p>
 
 <p><a href="{{ page.pdf }}">I want to read this! (PDF)</a></p>

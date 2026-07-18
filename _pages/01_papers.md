@@ -13,6 +13,9 @@ permalink: /papers/
 		{% assign name_and = 'and ' | append : site.name %}
 		({{ post.authors | strip_newlines | remove: name_and | remove: and_name | prepend: 'with ' }})
 	{% endif %}
+	{% if post.status %}
+		<i>({{ post.status }})</i>
+	{% endif %}
 	</li>
 {% endfor %}
 </ul>
