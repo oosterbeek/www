@@ -17,7 +17,7 @@ layout: default
 
 <h2>Recent work</h2>
 
-{% assign allwork = site.categories.pub | concat: site.categories.papers | sort: "date" | reverse %}
+{% assign allwork = site.categories.pub | concat: site.categories.papers | sort: "year" | reverse %}
 {% for post in allwork limit: 4 %}
 <div class="entry">
 	<div class="entry-year">{% if post.year == "Forthcoming" %}Forthc.{% elsif post.year and post.year != "" %}{{ post.year }}{% else %}{{ post.date | date: "%Y" }}{% endif %}</div>
