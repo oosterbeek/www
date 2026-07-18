@@ -4,7 +4,7 @@ title: Working Papers
 permalink: /papers/
 ---
 
-{% assign items = site.categories.papers | sort: 'date' %}
+{% assign items = site.categories.papers | sort: 'year' %}
 {% for post in items reversed %}
 <div class="entry">
 	<div class="entry-year">{% if post.year and post.year != "" %}{{ post.year }}{% else %}{{ post.date | date: "%Y" }}{% endif %}</div>
