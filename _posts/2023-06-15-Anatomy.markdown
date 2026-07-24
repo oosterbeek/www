@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "The anatomy of competitiveness"
-abstract: "A large empirical literature in behavioral economics investigates heterogeneity across individuals and groups in preferences for competition. In this study, we provide a more detailed view on competitiveness by differentiating between four different motivations for entering competitions – enjoyment of competition, desire to win, competition for personal development, and general challenge seeking. We investigate which of these dimensions are picked up by traditional measures of competitiveness; how they predict individual and gender differences in career outcomes including income, holding a leadership position, and entrepreneurship; how they predict wellbeing; and how they relate to other personality traits, skills, and preferences."
+abstract: "A large empirical literature in behavioral economics investigates heterogeneity across individuals and groups in preferences for competition. In this study, we provide a more detailed view on competitiveness by differentiating between three motivations for entering competitions: enjoyment of competition, desire to win, and competition for personal development. We investigate which of these dimensions are picked up by traditional measures of competitiveness; how they predict individual and gender differences in career outcomes; how they predict wellbeing; and how they relate to other personality traits, skills, and preferences. We make a further contribution by showing that willingness to compete is distinct from – and predicts outcomes beyond – general willingness to seek challenges."
 authors: "Thomas Buser and Hessel Oosterbeek"
 year: "Forthcoming"
 journal: "Journal of the Economic Science Association"
@@ -13,7 +13,7 @@ booktitle: ""
 editor: ""
 publisher: ""
 institution: ""
-pdf: "https://www.dropbox.com/s/b1kr0hsws5xue88/anatomy.pdf?dl=0"
+pdf: "/pdfs/buserOosterbeek2026jesa.pdf"
 date: 2023-06-15
 category: pub
 ---
